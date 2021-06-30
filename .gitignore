@@ -72,6 +72,7 @@ instance/
 logs/
 reports/
 screenshots/
+__snapshots/
 
 # Sphinx documentation
 docs/_build/
