@@ -17,4 +17,13 @@ def print_hi(obj: object):
 if __name__ == '__main__':
     print_hi(user)
 
+
+class prueba:
+    def __init__(self):
+        print()
+
+    def Prueba(self):
+        {
+            
+        }
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
